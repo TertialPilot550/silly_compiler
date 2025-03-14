@@ -1,0 +1,27 @@
+
+
+functions could maybe be relatively simply compiled
+
+use statements heavily 
+
+
+// Mid Level functions
+
+for loop
+while loop
+if / if else / if else if 
+break, continue
+
+
+
+
+// Higher level functions
+function, function pointers, structs
+return
+
+test() {
+
+    
+
+
+}
